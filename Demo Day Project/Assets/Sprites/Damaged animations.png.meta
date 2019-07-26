@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: 8b782d9d4d1d34098942c00490dff131
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2932710489936876026
+    second: Damaged animations_0
+  - first:
+      213: -1084348762720380195
+    second: Damaged animations_1
+  - first:
+      213: 2344035727666630061
+    second: Damaged animations_2
+  - first:
+      213: 7759783845881466623
+    second: Damaged animations_3
+  - first:
+      213: -5285167983174718988
+    second: Damaged animations_4
+  - first:
+      213: -6464636927110300114
+    second: Damaged animations_5
+  - first:
+      213: -5361104428219686404
+    second: Damaged animations_6
+  - first:
+      213: 5172018584929803406
+    second: Damaged animations_7
+  - first:
+      213: 2292700857759311306
+    second: Damaged animations_8
+  - first:
+      213: -2375611374513719636
+    second: Damaged animations_9
+  - first:
+      213: 2010145399729966688
+    second: Damaged animations_10
+  - first:
+      213: -2689909762474389260
+    second: Damaged animations_11
+  - first:
+      213: 2576395751750284201
+    second: Damaged animations_12
+  - first:
+      213: 4645792557437899086
+    second: Damaged animations_13
+  - first:
+      213: 4272185355784454122
+    second: Damaged animations_14
+  - first:
+      213: -845093660822419085
+    second: Damaged animations_15
+  - first:
+      213: -5966617640271526543
+    second: Damaged animations_16
+  - first:
+      213: -6294503563797753611
+    second: Damaged animations_17
+  - first:
+      213: -2678398303177650305
+    second: Damaged animations_18
+  - first:
+      213: 2058627878212737090
+    second: Damaged animations_19
+  - first:
+      213: 2003463557366285785
+    second: Damaged animations_20
+  - first:
+      213: 8925254783927917277
+    second: Damaged animations_21
+  - first:
+      213: -6582122073689771939
+    second: Damaged animations_22
+  - first:
+      213: 7323675324983923791
+    second: Damaged animations_23
+  - first:
+      213: -7905830340310260640
+    second: Damaged animations_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Damaged animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4447671adb6e4cb2b4d05985130a71c
+      internalID: 2932710489936876026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 190
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16659e118f40d485a90b849dac6cc805
+      internalID: -1084348762720380195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 190
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9017fce7ab0234a58a4769f749a23cac
+      internalID: 2344035727666630061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 190
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30be07c40cbb492da4314612f30377e
+      internalID: 7759783845881466623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 190
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d33f7394114bdbb27dd42ac3a19fc
+      internalID: -5285167983174718988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 190
+        width: 59
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d478b548ab204022b5251b7cde84900
+      internalID: -6464636927110300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 190
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d711efdb6949d19084e80bb6a8b90
+      internalID: -5361104428219686404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1058f18e306c5428984a0cbef367fa12
+      internalID: 5172018584929803406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b0157e7ec042c2bdf33f55c438561
+      internalID: 2292700857759311306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 140
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b0dafb15714b95978ef0594447ec4
+      internalID: -2375611374513719636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a911b12f70b0f4d0fb2032c8118086b5
+      internalID: 2010145399729966688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691d56cf9950244479d3272860454599
+      internalID: -2689909762474389260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 140
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999d339d1a744737b34a5434d207654
+      internalID: 2576395751750284201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 125
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c4e5956a144304a4d6ea5a3fd2f6a
+      internalID: 4645792557437899086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236c2dd031d984b13b94f7022e04760c
+      internalID: 4272185355784454122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812bf043e375c4f329b84a080bf6b9e7
+      internalID: -845093660822419085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 73
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8110f3e95f84a158d78d55992fcc27
+      internalID: -5966617640271526543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 73
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635c7f5dd2154560aa991ae238a8df5
+      internalID: -6294503563797753611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 65
+        width: 66
+        height: 62
+      alignment: 9
+      pivot: {x: 0.51071817, y: 0.51140916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425141d598c8341a4b98ecedcf4985dc
+      internalID: -2678398303177650305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143990d11a02e4e729a1d99e15030e06
+      internalID: 2058627878212737090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f2b02390f74d69bfebedb164c4a88
+      internalID: 2003463557366285785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 19
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4800ac9e6844c2b960cbb60d1d90ea
+      internalID: 8925254783927917277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f96ea3373c4ee8be58e074328a48f
+      internalID: -6582122073689771939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db78eede0e414415892e2aa2f82ef766
+      internalID: 7323675324983923791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged animations_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 74
+        width: 28
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cbf58f5897e43dd8329a54d410ff32
+      internalID: -7905830340310260640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a1f656984b674457bd0b8dde6f4b721
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
